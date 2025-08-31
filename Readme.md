@@ -23,7 +23,6 @@ A simple and user-friendly **Weather Application** that allows users to check th
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
-```bash
 git clone https://github.com/Mdraihanahmad/Weather-app.git
 cd weather-app
 
